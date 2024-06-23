@@ -1,0 +1,56 @@
+@media (max-width:1110px){
+    .search input{
+        display: none;
+    }
+
+    .search {
+        width: 2.7rem;
+        height: 2.7rem;
+        text-align: center;
+        font-size: 1.5rem;
+    }
+
+    .main_nav{
+        width: 50%;
+        height: 3.5rem;
+        display: inline-flex;
+        align-items: center;
+        padding-left: 0rem;
+    }
+
+    .profile_icons_media2{
+        display: none;
+    }
+
+    .profile_icons_media1{
+        display: block;
+    }
+
+    .anchor_icon_media{
+        display: inline-flex;
+    }
+
+    .first_content{
+        display: none;
+        transform: translate(-500px);
+    }
+
+    .second_content{
+        width: 65%;
+        height: 90vh;
+        margin: 2rem 0 0 2rem;
+        
+    }
+
+    .third_content{
+        width: 30%;
+        height: 90vh;
+        margin-left: 2.5rem;
+    }
+
+    .next{
+        top: 6rem;
+        left: 40rem;
+        
+    }
+}
